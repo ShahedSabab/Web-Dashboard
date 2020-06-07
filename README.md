@@ -1,5 +1,5 @@
 # WebDashboard
-The purpose of this project is to gain insight of the agricultural market data of different commodities e.g., Wheat, Corn, Barley, Oats etc. The data includes different attributes such as consumption, production, import, export, stocks, yield of the commodities. The data reports attributes on 125 countries and over 20 years timeline.
+The purpose of this project is to gain insights of the agricultural market data of different commodities e.g., Wheat, Corn, Barley, Oats etc and present them in a dashboard. The data includes different attributes such as consumption, production, import, export, stocks, yield of the commodities. The data reports attributes on 125 countries and over 20 years timeline.
 
 • This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7. <br>
 • For developing the visualizations PSD Grain Data_small.xlsx has been used. <br>
