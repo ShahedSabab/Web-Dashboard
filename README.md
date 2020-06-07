@@ -17,6 +17,9 @@ The purpose of this project is to gain insights of the agricultural market data 
 ## Interactive Tooltip
 <img src="Tooltip.gif" width="50%">
 
+## Dynamic Table
+<img src="Dynamic_Table.gif" width="50%">
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
