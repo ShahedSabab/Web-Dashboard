@@ -1,12 +1,11 @@
+# WebDashboard
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7. For developing the visualizations PSD Grain Data_small.xlsx has been used. For keeping the project simple, only "Wheat" from coutry "Canada" have been used for the calculations of the timeseries, barplot and crosstab.
+
 # Desktop UI
 <img src="Web_UI.gif" width="100%">
 
 # Mobile UI
 <img src="Mobile_UI.gif" width="40%">
-
-# WebDashboard
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
 
