@@ -58,7 +58,7 @@ export class AppComponent implements OnInit{
   openDialog(action, obj) {
     obj.action = action;
     const dialogRef = this.dialog.open(DialogBoxComponent, {
-      width: '300px',
+      width: '250px',
       data: obj
     });
     dialogRef.afterClosed().subscribe(result => {
