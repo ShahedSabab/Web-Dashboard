@@ -1,7 +1,8 @@
-# Mobile UI
-![](Mobile_UI.gif)
 # Desktop UI
 ![](Web_UI.gif)
+
+# Mobile UI
+![](Mobile_UI.gif)
 
 # WebDashboard
 
