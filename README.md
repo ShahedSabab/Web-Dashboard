@@ -13,6 +13,9 @@ The purpose of this project is to gain insights of the agricultural market data 
 # Mobile UI
 <img src="Mobile_UI.gif" width="40%">
 
+# Interactive Tooltip
+<img src="Tooltip.gif">
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
