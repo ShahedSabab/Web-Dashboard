@@ -24,7 +24,7 @@ The purpose of this project is to gain insights of the agricultural market data 
 <img src="Farmbot.gif" width="30%">
 
 ## How to run
-Please run the following commands:
+Please go to the project directory and run the following commands:
 
 Install all the dependencies
 > npm install package.json
