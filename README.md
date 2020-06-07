@@ -13,7 +13,7 @@ The purpose of this project is to gain insights of the agricultural market data 
 # Mobile UI
 <img src="Mobile_UI.gif" width="40%">
 
-# Interactive Tooltip
+## Interactive Tooltip
 <img src="Tooltip.gif" width="50%">
 
 ## Development server
