@@ -5,6 +5,7 @@ The purpose of this project is to gain insights of the agricultural market data 
 • For developing the visualizations PSD Grain Data_small.xlsx has been used. <br>
 • For keeping the project simple, only "Wheat" from coutry "Canada" have been used for the calculations of the timeseries, barplot and crosstab. <br>
 • The calculations have been made using Tableau. To see more details, please open Canadian_Wheat.twb file with Tableau Desktop. <br>
+• For designing the Farmbot, [drift] is used.
 
 # Desktop UI
 <img src="Web_UI.gif" width="100%">
