@@ -23,6 +23,15 @@ The purpose of this project is to gain insights of the agricultural market data 
 ## Farmbot
 <img src="Farmbot.gif" width="30%">
 
+## How to run
+Please run the following commands:
+
+Install all the dependencies
+> npm install package.json
+
+Run the server
+> npm start
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
