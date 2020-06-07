@@ -12,6 +12,7 @@ import { MatSortModule } from '@angular/material/sort';
 import { MatDialogModule } from '@angular/material/dialog';
 import { DialogBoxComponent } from './dialog-box/dialog-box.component';
 import { MatPaginatorModule } from '@angular/material/paginator';
+import { Ng6O2ChartModule } from 'ng6-o2-chart';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { MatPaginatorModule } from '@angular/material/paginator';
     MatInputModule,
     MatSortModule,
     MatDialogModule,
-    MatPaginatorModule
+    MatPaginatorModule,
+    Ng6O2ChartModule
   ],
   entryComponents: [
     DialogBoxComponent
