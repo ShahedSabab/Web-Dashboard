@@ -1,8 +1,8 @@
 # Desktop UI
-![](Web_UI.gif)
+<img src="Web_UI.gif" width="100%">
 
 # Mobile UI
-![](Mobile_UI.gif)
+<img src="Mobile_UI.gif" width="40%">
 
 # WebDashboard
 
