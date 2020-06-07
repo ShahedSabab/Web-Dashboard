@@ -1,0 +1,26 @@
+<h1 mat-dialog-title>Add a new row</h1>
+<div mat-dialog-content >
+  <mat-form-field >
+    <input placeholder="{{action}} Year" matInput [(ngModel)]="local_data.Year">
+  </mat-form-field>
+  <mat-form-field>
+    <input placeholder="{{action}} Domestic Consumption" matInput [(ngModel)]="local_data.DC">
+  </mat-form-field>
+  <mat-form-field>
+    <input placeholder="{{action}} Feed Dom. Consumption" matInput [(ngModel)]="local_data.FDC">
+  </mat-form-field>
+  <mat-form-field>
+    <input placeholder="{{action}} FSI Consumption" matInput [(ngModel)]="local_data.FSI">
+  </mat-form-field>
+  <mat-form-field>
+    <input placeholder="{{action}} Area Hervested" matInput [(ngModel)]="local_data.AH">
+  </mat-form-field>
+  <mat-form-field>
+    <input placeholder="{{action}} Yield" matInput [(ngModel)]="local_data.YI">
+  </mat-form-field>
+
+</div>
+<div mat-dialog-actions>
+  <button  type="button" class="btn btn-primary" (click)="doAction()" style="margin: 5px">{{action}}</button>
+  <button type="button" class="btn btn-secondary" (click)="closeDialog()" style="margin: 5px">Cancel</button>
+</div>
