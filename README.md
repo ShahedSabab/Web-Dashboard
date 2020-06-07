@@ -1,6 +1,36 @@
 # WebDashboard
+The purpose of this project is to gain insights of the agricultural market data of different commodities e.g., Wheat, Corn, Barley, Oats etc and present them in a dashboard. The data includes different attributes such as consumption, production, import, export, stocks, yield of the commodities. The data reports attributes on 125 countries and over 20 years timeline.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+• This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7. <br>
+• The UI supports responsive layouts.<br>
+• For developing the visualizations PSD Grain Data_small.xlsx has been used. <br>
+• For keeping the project simple, only "Wheat" from coutry "Canada" have been used for the calculations of the timeseries, barplot and crosstab. <br>
+• The calculations have been made using Tableau. To see more details, please open Canadian_Wheat.twb file with Tableau Desktop. <br>
+• For designing the Farmbot, [drift](https://www.drift.com/) is used.
+
+# Desktop UI
+<img src="Web_UI.gif" width="100%">
+
+# Mobile UI
+<img src="Mobile_UI.gif" width="40%">
+
+## Interactive Tooltip
+<img src="Tooltip.gif" width="50%">
+
+## Dynamic Table
+<img src="Dynamic_Table.gif" width="50%">
+
+## Farmbot
+<img src="Farmbot.gif" width="30%">
+
+## How to run
+Please go to the project directory and run the following commands:
+
+Install all the dependencies
+> npm install package.json
+
+Run the server
+> npm start
 
 ## Development server
 
