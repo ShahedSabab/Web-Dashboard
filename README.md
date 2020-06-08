@@ -5,6 +5,7 @@ The purpose of this project is to gain insights of the agricultural market data 
 • The UI supports responsive layouts.<br>
 • For developing the visualizations PSD Grain Data_small.xlsx has been used. <br>
 • For keeping the project simple, only "Wheat" from coutry "Canada" have been used for the calculations of the timeseries, barplot and crosstab. <br>
+• The visualizations have been developed using chart.js and d3.js
 • The calculations have been performed using Tableau. To see more details, please open Canadian_Wheat.twb file with Tableau Desktop. <br>
 • For designing the Farmbot, [drift](https://www.drift.com/) is used.
 
@@ -20,6 +21,9 @@ The purpose of this project is to gain insights of the agricultural market data 
 ## Dynamic Table
 <img src="Dynamic_Table.gif" width="50%">
 
+## Incorporated Graphs (D3.js)
+<img src="PacklayoutGraph.gif" width="50%">
+<img src="BarGraph.gif" width="50%">
 ## Farmbot
 <img src="Farmbot.gif" width="30%">
 
