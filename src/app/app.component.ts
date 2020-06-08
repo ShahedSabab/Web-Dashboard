@@ -169,7 +169,7 @@ export class AppComponent implements OnInit{
       },
       pie: {
         innerRadius: {
-          percent: 20,
+          percent: 40,
           title: 'Total'
         },
         value: {
@@ -185,10 +185,10 @@ export class AppComponent implements OnInit{
       },
       grid: {
         x: {
-          display: true,
+          display: false,
         },
         y: {
-          display: true,
+          display: false,
         },
       },
       margin: {
