@@ -1,10 +1,10 @@
 # WebDashboard
-The purpose of this project is to gain insights of the agricultural market data of different commodities e.g., Wheat, Corn, Barley, Oats etc and present them in a dashboard. The data includes different attributes such as consumption, production, import, export, stocks, yield of the commodities. The data reports attributes on 125 countries and over 20 years timeline.
+The purpose of this project is to gain insights of the agricultural market data of different commodities, e.g., Wheat, Corn, Barley, Oats etc. and present them in a dashboard. The data includes different attributes such as consumption, production, import, export, stocks, yield of the commodities. The data reports attributes on 125 countries and over 20 years timeline.
 
 • This project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7. <br>
 • The UI supports responsive layouts.<br>
-• For developing the visualizations PSD Grain Data_small.xlsx has been used. <br>
-• For keeping the project simple, only "Wheat" from coutry "Canada" have been used for the calculations of the timeseries, barplot and crosstab. <br>
+• For developing the visualizations, PSD Grain Data_small.xlsx has been used. <br>
+• For keeping the project simple, only "Wheat" from country "Canada" has been used for the calculations of the timeseries, barplot, and crosstab. <br>
 • The visualizations have been developed using chart.js and d3.js. <br>
 • The color palettes of the visualizations are carefully chosen to support color-blind users. <br>
 • The calculations have been performed using Tableau. To see more details, please open Canadian_Wheat.twb file with Tableau Desktop. <br>
