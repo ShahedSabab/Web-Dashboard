@@ -25,6 +25,7 @@ The purpose of this project is to gain insights of the agricultural market data 
 ## Incorporated Graphs (D3.js)
 <img src="PacklayoutGraph.gif" width="50%">
 <img src="BarGraph.gif" width="50%">
+
 ## Farmbot
 <img src="Farmbot.gif" width="30%">
 
