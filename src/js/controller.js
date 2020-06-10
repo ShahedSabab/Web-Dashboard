@@ -169,9 +169,9 @@ $(function () {
           type                : 'line',
           data                : [16575, 17352, 18953, 23268, 24170, 22091, 20218, 22000, 24404, 23000],
           backgroundColor     : 'tansparent',
-          borderColor         : '#7a857d',
-          pointBorderColor    : '#7a857d',
-          pointBackgroundColor: '#7a857d',
+          borderColor         : '#42526C',
+          pointBorderColor    : '#42526C',
+          pointBackgroundColor: '#42526C',
           fill                : false
           // pointHoverBackgroundColor: '#ced4da',
           // pointHoverBorderColor    : '#ced4da'
