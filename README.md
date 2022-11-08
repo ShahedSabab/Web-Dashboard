@@ -7,7 +7,7 @@ The purpose of this project is to gain insights into the agricultural market dat
 • For keeping the project simple, only "Wheat" from country "Canada" has been used for the calculations of the timeseries, barplot, crosstab, and pack layout graphs. <br>
 • The visualizations have been developed using chart.js and d3.js. <br>
 • The color palettes of the visualizations are carefully chosen to support color-blind users. <br>
-• The calculations have been performed using Tableau. To see more details, please open Canadian_Wheat.twb file with Tableau Desktop. <br>
+• The calculations have been performed using Tableau. To see more details, please open Canadian_Wheat.twb file using Tableau Desktop. <br>
 • For designing the Farmbot, [drift](https://www.drift.com/) is used.
 
 # Desktop UI
